@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33112
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Dickinson_Ward
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33662#A-Republic-Without-a-President-and-Other-Stories
 gutenberg_bookshelf: Precursors of Science Fiction
 gutenberg_issued: '2010-09-07'
 gutenberg_type: Text
